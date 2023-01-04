@@ -1,1 +1,1 @@
-# Analisis de datos y construcción de Regla de Asociación de un dataset de Enfermedad.
+# Analisis de datos y uso de Algoritmos de Predicción de Machine Learning.
